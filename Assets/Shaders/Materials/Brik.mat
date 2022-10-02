@@ -37,7 +37,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Briks_Color: {r: 0.2509804, g: 0.23529412, b: 0.5254902, a: 1}
+    - _Briks_Color: {r: 0.3882353, g: 0.14117648, b: 0.003921569, a: 1}
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
     - _Tiling: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
